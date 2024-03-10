@@ -1,4 +1,4 @@
-#Razor Pay Clone
+# Razor Pay Clone
  
 This project uses Tailwind Css 
 - Open the terminal 
